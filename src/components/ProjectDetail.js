@@ -1,12 +1,12 @@
 import React from 'react';
 
 export default function ProjectDetail({ projects }) {
-
+// TODO Incorporate hover feture that will show options for deployed link and repo and blur out background image
     return (
     <div className="container">
       <ul className="list-group">
         { projects.map((project) => (
-          <li className="list-group-item text-center" style={{height: '400px'}} key={project.id}>
+          <li className="list-group-item text-center" key={project.id}>
             <img 
             alt={project.name}
             className='img-fluid'
