@@ -1,0 +1,16 @@
+.list-group-item {
+    background-color:rgb(199, 185, 140);
+    border-radius: 16px;
+    margin:auto;
+    margin-bottom: 16px;
+}
+
+.list-group {
+    margin: auto;
+    background-color:rgb(199, 185, 140);
+    padding-top: 16px;
+}
+
+.image {
+    position: relative;
+}

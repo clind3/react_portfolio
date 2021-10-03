@@ -1,5 +1,25 @@
 
 body {
-    background-image: url('../tall-background.jpg');
-    background-size: cover;
+    background-image: url('../background.jpg');
+    background-repeat: repeat;
+}
+
+.noLinkStyle {
+    text-decoration: none;
+    margin: auto;
+    color: rgb(247, 213, 213);
+}
+
+.navLinks {
+    display: flex;
+    align-content: space-around;
+    color: white;
+}
+
+.hover:hover {
+    background-color: rgb(194, 194, 139);
+    padding-top: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
 }
