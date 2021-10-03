@@ -24,22 +24,6 @@ const projects = [
         gitHubRepo: 'https://github.com/clind3/whats_going_on',
         src: 'WhatsGoingOnSite.PNG',
         description: 'Restaurant Review Site'
-    },
-    {
-        id: 4,
-        name: "What's Going On?",
-        deployedLink: "https://whats-going-on-nightout.herokuapp.com/",
-        gitHubRepo: 'https://github.com/clind3/whats_going_on',
-        src: 'WhatsGoingOnSite.PNG',
-        description: 'Restaurant Review Site'
-    },
-    {
-        id: 5,
-        name: "What's Going On?",
-        deployedLink: "https://whats-going-on-nightout.herokuapp.com/",
-        gitHubRepo: 'https://github.com/clind3/whats_going_on',
-        src: 'WhatsGoingOnSite.PNG',
-        description: 'Restaurant Review Site'
     }
 ];
 
