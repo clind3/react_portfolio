@@ -27,7 +27,7 @@ export default function Contact() {
                         alt="gmail icon link button" /> </a>
       </div>
       <h4 className="my-3">Send me an email.</h4>
-      <form id="email-form" onSubmit={handleSubmit} method="POST">
+      <form id="email-form" action="mailto:clind323@gmail.com" method="POST" enctype="text/plain" >
         <div className="form-group mt-3">
           <label htmlFor="name-input">Name</label>
           <input type="text" id="name-input" className="form-control" />

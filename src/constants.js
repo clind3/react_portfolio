@@ -24,7 +24,14 @@ const projects = [
         gitHubRepo: 'https://github.com/clind3/whats_going_on',
         src: 'WhatsGoingOnSite.PNG',
         description: 'Restaurant Review Site'
-    }
+    },
+    {
+        id: 3,
+        name: "Book Search",
+        deployedLink: "https://my-portfolio-reacts.herokuapp.com/",
+        gitHubRepo: 'https://github.com/clind3/book_search',
+        src: 'SearchBooks.PNG',
+        description: 'Search for books from google books and save them to your profile'}
 ];
 
 export default projects;
