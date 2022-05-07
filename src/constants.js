@@ -12,8 +12,8 @@ const projects = [
     {
         id: 2,
         name: "Good Eat's",
-        deployedLink: "https://whats-going-on-nightout.herokuapp.com/",
-        gitHubRepo: 'https://github.com/clind3/whats_going_on',
+        deployedLink: "https://clind3.github.io/GoodEats/",
+        gitHubRepo: 'https://github.com/clind3/GoodEats',
         src: 'GoodEatsSite.PNG',
         description: 'Recipe site that allows filtering and even a sidebar to find restaurants in their area.'
     },
@@ -28,7 +28,7 @@ const projects = [
     {
         id: 3,
         name: "Book Search",
-        deployedLink: "https://my-portfolio-reacts.herokuapp.com/",
+        deployedLink: "https://book-search-101.herokuapp.com/",
         gitHubRepo: 'https://github.com/clind3/book_search',
         src: 'SearchBooks.PNG',
         description: 'Search for books from google books and save them to your profile'}
